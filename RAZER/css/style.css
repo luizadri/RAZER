@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 2.5rem;
+}
+.green{
+    background-color: lime;
+    height: 0.1rem;
+}
+.ash{
+    background-color: gray;
+    text-align: center;
+    height: 3rem;
+}
+.p1{
+    color: white;
+    padding-top: 0.7rem;
+}
+.a1{
+    color: white;
+}
+.a1:hover{
+    color: white;
+}
+@media (max-width: 626px)
+{
+    .ash{
+        height: 4rem;
+    }
+}
+@media (max-width: 300px)
+{
+    .ash{
+        height: 5.5rem;
+    }
+}
+.bg1{
+    background-image: url("../image/img3.png");
+     height: 43rem;
+     background-position: center;
+     background-size: cover;
+}
+
+/* .temp{
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    bottom: 69%;
+    right: 37%;
+}
+.bg1{
+    position:relative;
+    z-index: 100;
+} */
+.a2{
+    color: white;
+    font-size: 3em;
+    font-weight: 600;
+}
+.a2:hover{
+    color: white;
+    text-decoration: none;
+}
+.a3{
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+.a3:hover{
+    color: white;
+    text-decoration: none;
+}
+.a4{
+    color: white;
+    
+    font-size: 1.3em;
+}
+.a5{
+    color: white;
+    font-size: 1.3em;
+    
+}
+.a5:hover{
+    color: white;
+    
+}
+.a4:hover{
+    color: white;
+
+}
+.bg2{
+    background-image: url("../image/img4.png");
+    height: 43rem;
+     background-position: center;
+     background-size: cover;
+}
+.b1{
+    font-size: 0.6em;
+    font-weight: 600;
+    width: 12em;
+    height: 4em;
+    background-color: #e09508;
+    margin-top: 22px;
+    padding-right: 25px;
+}
+.s1{
+    color:  rgb(0, 255, 0);
+}
+.bg3{
+    background-image: url("../image/img5.png");
+    height: 44rem;
+     background-position: center;
+     background-size: cover;
+     
+}
+
+.bg4{
+    background-image: url("../image/img6.png");
+    height: 44rem;
+    background-position: center;
+    background-size: cover;
+}
+.bg5{
+    background-image: url("../image/img7.png");
+    height: 44rem;
+    background-position: center;
+    background-size: cover;
+}
+.bg6{
+    background-image: url("../image/img8.png");
+    height: 44rem;
+    background-position: center;
+    background-size: cover;
+}
+.bg7{
+    background-image: url("../image/img9.png");
+    height: 44rem;
+    background-position: center;
+    background-size: cover;
+}
+.bg8{
+    background-image: url("../image/img10.png");
+    height: 44rem;
+    background-position: center;
+    background-size: cover;
+}
+.bg9{
+    background-image: url("../image/img11.png");
+    height: 44rem;
+    background-position: center;
+    background-size: cover;
+}
+.bg10{
+    background-color: black;
+}
+.img12{
+    padding-top: 1rem;
+    padding-left: 4rem;
+}
+.p2{
+    color: gray;
+    padding-top: 1rem;
+    padding-left: 5rem;
+    font-size: 0.8rem;
+
+}
+.s3{
+    color: white;
+    font-size: 0.8rem;
+
+}
+@media(max-width:350px){
+    .p2{
+        padding-left: 2.5rem;
+    }
+    .img12{
+        padding-left: 2.5rem;
+    }
+}
+.bg11{
+    background-color: black;
+    margin-top: -1rem;
+    
+}
+.p3{
+    color: gray;
+    font-size: 0.8rem;
+    
+
+}
+.p4{
+    color: gray;
+    font-size: 0.8rem;
+
+
+}
+.p5{
+    color: gray;
+    font-size: 0.8rem;
+    
+}
+hr{
+    background-color: gray;
+}
+.s4{
+    color: white;
+    font-size: 0.8rem;
+   
+
+}
+.p4:hover{
+    cursor: pointer;
+}
+.p5:hover{
+    cursor: pointer;
+}
+.p3:hover{
+    cursor: pointer;
+}
+.p2:hover{
+    cursor: pointer;
+}
+nav{
+    background-color: black;
+}
